@@ -680,7 +680,7 @@ export default function App() {
 
       {/* Footer playful credit */}
       <footer className="mt-4 sm:mt-6 text-[10px] sm:text-[11px] text-pink-700/60 tracking-wider font-medium text-center relative z-10 px-2">
-        Handcrafted with ❤️ & Tailwind CSS • Non-refundable smiles
+       made with 💖 by <i><b>Aditya</b></i>
       </footer>
 
       {/* Evasive Teleported "NO" Button (Rendered with fixed coordinates when teleported) */}
